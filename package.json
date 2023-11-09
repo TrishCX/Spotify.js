@@ -1,0 +1,19 @@
+{
+  "name": "@imax.i7/spotify.js",
+  "version": "1.0.0",
+  "description": "A simple module that fetches data from Spotify.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch dist/index.js",
+    "watch": "npx tsc --watch"
+  },
+  "keywords": [
+    "spotify"
+  ],
+  "author": "TrishCX",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
