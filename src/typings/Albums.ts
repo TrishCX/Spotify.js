@@ -12,7 +12,7 @@ interface Track {
 export interface Albums {
   name?: string;
   id?: string;
-  artists?: Artists;
+  artists?: Artists[];
   date?: string;
   image?: string;
   tracks?: Track[];
