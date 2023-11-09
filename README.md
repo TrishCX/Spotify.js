@@ -2,6 +2,27 @@
 
 `@imax.i7/spotify.js` is a lightweight JavaScript library that allows you to fetch data from Spotify.
 
+  <p>
+
+<p>
+  <a href="https://github.com/TrishCX/Spotify.js" target="_blank">
+    <img src="https://img.shields.io/npm/v/@imax.i7/spotify.js.svg" alt="Build Status">
+  </a>
+  <a href="https://github.com/TrishCX/Spotify.js" target="_blank">
+    <img src="https://img.shields.io/badge/License-Boost_1.0-lightblue.svg" alt="Codecov" />
+  </a>
+  <a href="https://github.com/TrishCX/Spotify.js" target="_blank">
+    <img src="https://img.shields.io/badge/License-ISC-blue.svg" alt="License">
+  </a>
+  <a href="https://www.npmjs.com/package/@imax.i7/spotify.js.svg" target="_blank">
+    <img src="https://img.shields.io/npm/dt/@imax.i7/spotify.js.svg" />
+  </a>
+  
+</p>
+<p>
+  
+</p>
+
 ## Prerequisites
 
 - NodeJS v16+
@@ -40,7 +61,7 @@ Spotify.getTrack("2cGxRwrMyEAp8dEbuZaVv6").then((response) =>
 
 # Links
 
-- [Github](https://github.com/TrishCX/Youtube-Suggestion)
+- [Github](https://github.com/TrishCX/Spotify.js)
 
 # License
 

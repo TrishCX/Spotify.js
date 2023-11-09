@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A simple module that fetches data from Spotify.",
   "main": "dist/index.js",
+  "repository": {
+    "url": "https://github.com/TrishCX/Spotify.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node --watch dist/index.js",
